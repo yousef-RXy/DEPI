@@ -1,0 +1,22 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: 0%;
+}
+div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+p {
+	max-width: 70%;
+	text-align: justify;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
